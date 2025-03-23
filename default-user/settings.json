@@ -10,7 +10,6 @@
     },
     "currentVersion": "1.12.12",
     "username": "格林",
-    "active_character": "精币世界.png",
     "api_server": "http://127.0.0.1:5000/api",
     "preset_settings": "RecoveredRuins",
     "user_avatar": "user-default.png",
@@ -474,7 +473,25 @@
             "profiles": []
         },
         "dice": {},
-        "regex": [],
+        "regex": [
+            {
+                "id": "37069c56-ba9e-4230-a19c-e74ca7b9d9ef",
+                "scriptName": "【Lyean】用户输入添加tag",
+                "findRegex": "^([\\s\\S]*)$",
+                "replaceString": "<inputs>\n$1\n</inputs>",
+                "trimStrings": [],
+                "placement": [
+                    1
+                ],
+                "disabled": false,
+                "markdownOnly": true,
+                "promptOnly": true,
+                "runOnEdit": true,
+                "substituteRegex": 0,
+                "minDepth": null,
+                "maxDepth": 1
+            }
+        ],
         "character_allowed_regex": [],
         "tts": {
             "voiceMap": "",
