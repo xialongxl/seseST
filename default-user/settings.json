@@ -3,7 +3,8 @@
     "accountStorage": {
         "__migrated": "1",
         "LNavOpened": "true",
-        "LNavLockOn": "false"
+        "LNavLockOn": "false",
+        "NavOpened": "true"
     },
     "currentVersion": "1.12.12",
     "username": "格林",
