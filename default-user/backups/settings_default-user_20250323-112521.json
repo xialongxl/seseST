@@ -1,8 +1,7 @@
 {
     "firstRun": false,
     "accountStorage": {
-        "__migrated": "1",
-        "LNavOpened": "true"
+        "__migrated": "1"
     },
     "currentVersion": "1.12.12",
     "username": "格林",
@@ -375,11 +374,7 @@
         "external_media_allowed_overrides": [],
         "external_media_forbidden_overrides": [],
         "ui_mode": 1,
-        "auto_sort_tags": false,
-        "selectSamplers": {
-            "forceHidden": [],
-            "forceShown": []
-        }
+        "auto_sort_tags": false
     },
     "extension_settings": {
         "apiUrl": "http://localhost:5100",
@@ -687,8 +682,7 @@
     "tag_map": {
         "default_Seraphina.png": [
             "1345561466591"
-        ],
-        "undefined": []
+        ]
     },
     "nai_settings": {
         "temperature": 1.5,
