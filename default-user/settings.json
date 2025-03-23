@@ -1010,7 +1010,7 @@
         "openrouter_middleout": "on",
         "jailbreak_system": false,
         "reverse_proxy": "",
-        "chat_completion_source": "openai",
+        "chat_completion_source": "custom",
         "max_context_unlocked": false,
         "api_url_scale": "",
         "show_external_models": false,
