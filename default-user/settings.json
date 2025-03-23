@@ -575,6 +575,23 @@
                 "substituteRegex": 0,
                 "minDepth": null,
                 "maxDepth": 5
+            },
+            {
+                "id": "d142d60d-9611-4673-861b-bab166148919",
+                "scriptName": "【Lyean】[不发送]5楼以上除摘要外文本",
+                "findRegex": "/([\\s\\S]*?<details><summary>摘要</summary>|</details>[\\s\\S]*?$)/gs",
+                "replaceString": "",
+                "trimStrings": [],
+                "placement": [
+                    2
+                ],
+                "disabled": false,
+                "markdownOnly": false,
+                "promptOnly": true,
+                "runOnEdit": true,
+                "substituteRegex": 0,
+                "minDepth": 5,
+                "maxDepth": null
             }
         ],
         "character_allowed_regex": [],
