@@ -332,11 +332,11 @@
         "persona_descriptions": {
             "user-default.png": {
                 "description": "",
-                "position": 0
+                "position": 4
             }
         },
         "persona_description": "",
-        "persona_description_position": 0,
+        "persona_description_position": 4,
         "persona_description_role": 0,
         "persona_description_depth": 2,
         "persona_description_lorebook": "",
