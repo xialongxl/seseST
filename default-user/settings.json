@@ -886,7 +886,7 @@
         "temp_openai": 1,
         "freq_pen_openai": 0,
         "pres_pen_openai": 0,
-        "top_p_openai": 1,
+        "top_p_openai": 0.11,
         "top_k_openai": 0,
         "min_p_openai": 0,
         "top_a_openai": 1,
