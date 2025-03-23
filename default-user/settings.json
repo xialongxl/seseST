@@ -6,7 +6,8 @@
         "LNavLockOn": "false",
         "NavOpened": "false",
         "AlertWI_精币世界.png": "true",
-        "StoryStringValidationCache": "{\"hashCache\":{\"7241261575272609\":{\"fieldsWarned\":{}}}}"
+        "StoryStringValidationCache": "{\"hashCache\":{\"7241261575272609\":{\"fieldsWarned\":{}}}}",
+        "WINavOpened": "true"
     },
     "currentVersion": "1.12.12",
     "username": "格林",
