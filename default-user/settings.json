@@ -471,8 +471,20 @@
             "custom": []
         },
         "connectionManager": {
-            "selectedProfile": "",
-            "profiles": []
+            "selectedProfile": "c3b9fdec-01a3-439c-a29b-b3ed272066b3",
+            "profiles": [
+                {
+                    "id": "c3b9fdec-01a3-439c-a29b-b3ed272066b3",
+                    "mode": "cc",
+                    "exclude": [],
+                    "api": "custom",
+                    "preset": "Lyean3.18.4_Nyarlathotep (1)(1)",
+                    "api-url": "https://glamoth.ar26710.online/v1",
+                    "model": "claude-3.7-sonnet",
+                    "proxy": "None",
+                    "name": "custom claude-3.7-sonnet - Lyean3.18.4_Nyarlathotep (1)(1)"
+                }
+            ]
         },
         "dice": {},
         "regex": [
