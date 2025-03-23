@@ -384,7 +384,8 @@
         "selectSamplers": {
             "forceHidden": [],
             "forceShown": []
-        }
+        },
+        "wi_key_input_plaintext": true
     },
     "extension_settings": {
         "apiUrl": "http://localhost:5100",
