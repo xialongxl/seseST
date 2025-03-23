@@ -524,6 +524,23 @@
                 "substituteRegex": 0,
                 "minDepth": null,
                 "maxDepth": null
+            },
+            {
+                "id": "cc4639ab-f972-4e4d-a6e8-3ddb94f95e20",
+                "scriptName": "【lyean】去除markdown",
+                "findRegex": "/^#{1,2}.*(?=\\n|$)/gm",
+                "replaceString": "",
+                "trimStrings": [],
+                "placement": [
+                    2
+                ],
+                "disabled": false,
+                "markdownOnly": true,
+                "promptOnly": true,
+                "runOnEdit": true,
+                "substituteRegex": 0,
+                "minDepth": null,
+                "maxDepth": null
             }
         ],
         "character_allowed_regex": [],
