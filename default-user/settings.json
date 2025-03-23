@@ -4,7 +4,7 @@
         "__migrated": "1",
         "LNavOpened": "false",
         "LNavLockOn": "false",
-        "NavOpened": "false",
+        "NavOpened": "true",
         "AlertWI_精币世界.png": "true",
         "StoryStringValidationCache": "{\"hashCache\":{\"7241261575272609\":{\"fieldsWarned\":{}}}}",
         "WINavOpened": "true"
@@ -548,7 +548,7 @@
                 "placement": [
                     2
                 ],
-                "disabled": false,
+                "disabled": true,
                 "markdownOnly": true,
                 "promptOnly": true,
                 "runOnEdit": true,
