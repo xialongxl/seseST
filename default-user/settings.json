@@ -909,7 +909,7 @@
         "top_a_openai": 1,
         "repetition_penalty_openai": 1,
         "stream_openai": true,
-        "openai_max_context": 100000,
+        "openai_max_context": "2000000",
         "openai_max_tokens": 10311,
         "wrap_in_quotes": false,
         "prompts": [
@@ -2205,7 +2205,7 @@
         "zerooneai_model": "yi-large",
         "blockentropy_model": "be-70b-base-llama3.1",
         "deepseek_model": "deepseek-chat",
-        "custom_model": "grok-3",
+        "custom_model": "claude-3.7-sonnet",
         "custom_url": "https://glamoth.ar26710.online/v1",
         "custom_include_body": "",
         "custom_exclude_body": "",
