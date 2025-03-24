@@ -899,14 +899,14 @@
         "temp_openai": 1,
         "freq_pen_openai": 0,
         "pres_pen_openai": 0,
-        "top_p_openai": 0.11,
+        "top_p_openai": 1,
         "top_k_openai": 0,
         "min_p_openai": 0,
         "top_a_openai": 1,
         "repetition_penalty_openai": 1,
         "stream_openai": true,
-        "openai_max_context": "2000000",
-        "openai_max_tokens": 10311,
+        "openai_max_context": 2000000,
+        "openai_max_tokens": 32768,
         "wrap_in_quotes": false,
         "prompts": [
             {
