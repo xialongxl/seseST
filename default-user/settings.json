@@ -2,7 +2,7 @@
     "firstRun": false,
     "accountStorage": {
         "__migrated": "1",
-        "LNavOpened": "true",
+        "LNavOpened": "false",
         "LNavLockOn": "false",
         "NavOpened": "false",
         "AlertWI_精币世界.png": "true",
@@ -895,18 +895,18 @@
         "seed": -1
     },
     "oai_settings": {
-        "preset_settings_openai": "Lyean3.18.4_Nyarlathotep (1)(1)",
+        "preset_settings_openai": "Lyean3.18.4_Nyarlathotep (1)(1)(2)",
         "temp_openai": 1,
         "freq_pen_openai": 0,
         "pres_pen_openai": 0,
-        "top_p_openai": 1,
+        "top_p_openai": 0.11,
         "top_k_openai": 0,
         "min_p_openai": 0,
         "top_a_openai": 1,
         "repetition_penalty_openai": 1,
         "stream_openai": true,
         "openai_max_context": 2000000,
-        "openai_max_tokens": 32768,
+        "openai_max_tokens": 10311,
         "wrap_in_quotes": false,
         "prompts": [
             {
