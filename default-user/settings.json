@@ -2,7 +2,7 @@
     "firstRun": false,
     "accountStorage": {
         "__migrated": "1",
-        "LNavOpened": "false",
+        "LNavOpened": "true",
         "LNavLockOn": "false",
         "NavOpened": "false",
         "AlertWI_精币世界.png": "true",
@@ -2981,7 +2981,7 @@
                     },
                     {
                         "identifier": "ce3c483c-3357-45de-a472-3312ca2438b0",
-                        "enabled": true
+                        "enabled": false
                     },
                     {
                         "identifier": "95a4038c-1378-4b44-ab45-504fa24f8e64",
