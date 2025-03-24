@@ -906,7 +906,7 @@
         "repetition_penalty_openai": 1,
         "stream_openai": true,
         "openai_max_context": "2000000",
-        "openai_max_tokens": 32768,
+        "openai_max_tokens": 10311,
         "wrap_in_quotes": false,
         "prompts": [
             {
