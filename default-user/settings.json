@@ -817,7 +817,7 @@
                 "setList": [
                     {
                         "set": "角色扮演輔助一般版(1.2.1)",
-                        "isVisible": true
+                        "isVisible": false
                     }
                 ]
             }
