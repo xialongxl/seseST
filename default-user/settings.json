@@ -809,9 +809,10 @@
             "chara": []
         },
         "quickReplyV2": {
-            "isEnabled": false,
+            "isEnabled": true,
             "isCombined": false,
             "isPopout": false,
+            "showPopoutButton": false,
             "config": {
                 "setList": [
                     {
