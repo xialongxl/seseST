@@ -3209,7 +3209,7 @@
                     },
                     {
                         "identifier": "jailbreak",
-                        "enabled": false
+                        "enabled": true
                     },
                     {
                         "identifier": "daba9204-1c85-441b-b9f9-01ce045d2e5a",
