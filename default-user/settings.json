@@ -472,7 +472,7 @@
             "custom": []
         },
         "connectionManager": {
-            "selectedProfile": "c3b9fdec-01a3-439c-a29b-b3ed272066b3",
+            "selectedProfile": "7f10f51d-6bcb-4349-8c26-a35327ef0c05",
             "profiles": [
                 {
                     "id": "c3b9fdec-01a3-439c-a29b-b3ed272066b3",
@@ -484,6 +484,17 @@
                     "model": "claude-3.7-sonnet",
                     "proxy": "None",
                     "name": "custom claude-3.7-sonnet - Lyean3.18.4_Nyarlathotep (1)(1)"
+                },
+                {
+                    "id": "7f10f51d-6bcb-4349-8c26-a35327ef0c05",
+                    "mode": "cc",
+                    "exclude": [],
+                    "api": "custom",
+                    "preset": "Lyean3.18.4_Nyarlathotep (1)(1)(2)",
+                    "api-url": "https://glamoth.ar26710.online/v1",
+                    "model": "deepseek-v3-0324",
+                    "proxy": "None",
+                    "name": "custom deepseek-v3-0324 - Lyean3.18.4_Nyarlathotep (1)(1)(2)"
                 }
             ]
         },
