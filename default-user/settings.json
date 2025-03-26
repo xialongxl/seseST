@@ -472,8 +472,19 @@
             "custom": []
         },
         "connectionManager": {
-            "selectedProfile": "7f10f51d-6bcb-4349-8c26-a35327ef0c05",
+            "selectedProfile": "b8b1d5a4-c959-4f65-851b-55631258b167",
             "profiles": [
+                {
+                    "id": "b8b1d5a4-c959-4f65-851b-55631258b167",
+                    "mode": "cc",
+                    "exclude": [],
+                    "api": "custom",
+                    "preset": "Keeper_Refined_Ver3.0_ForAPIandGemini",
+                    "api-url": "https://xialongxl-Gemini.hf.space/v1",
+                    "model": "claude-3-7-sonnet-20250219",
+                    "proxy": "None",
+                    "name": "custom claude-3-7-sonnet-20250219 - Keeper_Refined_Ver3.0_ForAPIandGemini"
+                },
                 {
                     "id": "c3b9fdec-01a3-439c-a29b-b3ed272066b3",
                     "mode": "cc",
@@ -2358,7 +2369,7 @@
         "zerooneai_model": "yi-large",
         "blockentropy_model": "be-70b-base-llama3.1",
         "deepseek_model": "deepseek-chat",
-        "custom_model": "claude-3-7-sonnet-20250219",
+        "custom_model": "gemini-2.5-pro-exp-03-25",
         "custom_url": "https://xialongxl-Gemini.hf.space/v1",
         "custom_include_body": "",
         "custom_exclude_body": "",
