@@ -2207,11 +2207,11 @@
                     },
                     {
                         "identifier": "0b3e89f8-6967-45b2-a970-4f0cdb06d868",
-                        "enabled": true
+                        "enabled": false
                     },
                     {
                         "identifier": "b4aee569-11cd-4cdc-9d32-10adedf9a3bb",
-                        "enabled": true
+                        "enabled": false
                     },
                     {
                         "identifier": "e26b8a0d-a9f7-4f58-9344-d9de8375423e",
@@ -2219,15 +2219,15 @@
                     },
                     {
                         "identifier": "f577481b-a6ac-4dbf-9621-2bf38cdb6c8b",
-                        "enabled": true
+                        "enabled": false
                     },
                     {
                         "identifier": "ce41fb69-1b14-4e32-b351-7dd99aaca83e",
-                        "enabled": true
+                        "enabled": false
                     },
                     {
                         "identifier": "bb66f77e-e3f6-49eb-b357-19548f7b8783",
-                        "enabled": true
+                        "enabled": false
                     },
                     {
                         "identifier": "b4eb2220-3cd8-49a7-a879-5eb7e9eae9e4",
