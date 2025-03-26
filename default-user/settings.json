@@ -2167,7 +2167,7 @@
                     },
                     {
                         "identifier": "90c4768d-3fb4-47dc-9140-40e6a400b43c",
-                        "enabled": false
+                        "enabled": true
                     },
                     {
                         "identifier": "jailbreak",
