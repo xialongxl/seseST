@@ -644,7 +644,9 @@
                 "maxDepth": null
             }
         ],
-        "character_allowed_regex": [],
+        "character_allowed_regex": [
+            "炼金师的一生.png"
+        ],
         "tts": {
             "voiceMap": "",
             "ttsEnabled": false,
