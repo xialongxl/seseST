@@ -2163,11 +2163,11 @@
                     },
                     {
                         "identifier": "f29c8a76-f867-44dc-ae21-b9b0ce5e92d1",
-                        "enabled": true
+                        "enabled": false
                     },
                     {
                         "identifier": "1074b584-6d83-4474-80ae-bf7482fc7ca4",
-                        "enabled": true
+                        "enabled": false
                     },
                     {
                         "identifier": "755b4dfb-1ed9-478d-8702-390edeb26824",
@@ -2191,7 +2191,7 @@
                     },
                     {
                         "identifier": "7e057e3d-8dfa-4a51-bcea-d44fc10ec4e6",
-                        "enabled": true
+                        "enabled": false
                     },
                     {
                         "identifier": "54bcb345-c39c-45ee-9613-90f4202932b9",
