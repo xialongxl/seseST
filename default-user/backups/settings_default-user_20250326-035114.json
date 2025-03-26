@@ -472,7 +472,7 @@
             "custom": []
         },
         "connectionManager": {
-            "selectedProfile": "feab1c4d-219d-4fe5-8419-5a2966457369",
+            "selectedProfile": "b8b1d5a4-c959-4f65-851b-55631258b167",
             "profiles": [
                 {
                     "id": "b8b1d5a4-c959-4f65-851b-55631258b167",
@@ -506,17 +506,6 @@
                     "model": "deepseek-v3-0324",
                     "proxy": "None",
                     "name": "custom deepseek-v3-0324 - Lyean3.18.4_Nyarlathotep (1)(1)(2)"
-                },
-                {
-                    "id": "feab1c4d-219d-4fe5-8419-5a2966457369",
-                    "mode": "cc",
-                    "exclude": [],
-                    "api": "custom",
-                    "preset": "Keeper_Refined_Ver3.0_ForAPIandGemini",
-                    "api-url": "https://xialongxl-Gemini.hf.space/v1",
-                    "model": "gemini-2.5-pro-exp-03-25",
-                    "proxy": "None",
-                    "name": "custom gemini-2.5-pro-exp-03-25 - Keeper_Refined_Ver3.0_ForAPIandGemini"
                 }
             ]
         },
