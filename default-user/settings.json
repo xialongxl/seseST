@@ -2245,7 +2245,7 @@
         "blockentropy_model": "be-70b-base-llama3.1",
         "deepseek_model": "deepseek-chat",
         "custom_model": "claude-3.7-sonnet",
-        "custom_url": "https://xialongxl-space-url.hf.space/v1",
+        "custom_url": "https://xialongxl-Gemini.hf.space/v1",
         "custom_include_body": "",
         "custom_exclude_body": "",
         "custom_include_headers": "",
