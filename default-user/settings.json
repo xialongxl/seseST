@@ -2127,7 +2127,7 @@
                     },
                     {
                         "identifier": "3f7758a1-068c-4b4f-a39c-6e7374b40e60",
-                        "enabled": true
+                        "enabled": false
                     },
                     {
                         "identifier": "370a7425-87c2-4e42-b11d-6fa4b689eeb7",
@@ -2147,7 +2147,7 @@
                     },
                     {
                         "identifier": "328e64e8-c538-4ef4-a1fe-1d91d0106e3c",
-                        "enabled": true
+                        "enabled": false
                     },
                     {
                         "identifier": "08a026ff-9802-427f-9745-bf02088f61a8",
