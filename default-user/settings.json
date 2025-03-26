@@ -8,11 +8,13 @@
         "AlertWI_精币世界.png": "true",
         "StoryStringValidationCache": "{\"hashCache\":{\"7241261575272609\":{\"fieldsWarned\":{}}}}",
         "WINavOpened": "true",
-        "SelectedNavTab": "rm_button_selected_ch"
+        "SelectedNavTab": "rm_button_characters",
+        "AlertWI_炼金师的一生.png": "true",
+        "AlertRegex_炼金师的一生.png": "true"
     },
     "currentVersion": "1.12.12",
     "username": "格林",
-    "active_character": "精币世界.png",
+    "active_character": "炼金师的一生.png",
     "api_server": "http://127.0.0.1:5000/api",
     "preset_settings": "RecoveredRuins",
     "user_avatar": "user-default.png",
@@ -870,7 +872,8 @@
             "1345561466591"
         ],
         "undefined": [],
-        "精币世界.png": []
+        "精币世界.png": [],
+        "炼金师的一生.png": []
     },
     "nai_settings": {
         "temperature": 1.5,
