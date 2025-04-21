@@ -2,12 +2,15 @@
     "firstRun": false,
     "accountStorage": {
         "__migrated": "1",
-        "LNavOpened": "false",
+        "LNavOpened": "true",
         "LNavLockOn": "false",
         "NavOpened": "false",
         "AlertWI_精币世界.png": "true",
         "StoryStringValidationCache": "{\"hashCache\":{\"7241261575272609\":{\"fieldsWarned\":{}}}}",
-        "WINavOpened": "true"
+        "WINavOpened": "true",
+        "SelectedNavTab": "rm_button_characters",
+        "AlertWI_炼金师的一生.png": "true",
+        "AlertRegex_炼金师的一生.png": "true"
     },
     "currentVersion": "1.12.12",
     "username": "格林",
@@ -25,7 +28,7 @@
         "world_info_depth": 2,
         "world_info_min_activations": 0,
         "world_info_min_activations_depth_max": 0,
-        "world_info_budget": 25,
+        "world_info_budget": 100,
         "world_info_include_names": true,
         "world_info_recursive": true,
         "world_info_overflow_alert": false,
@@ -224,7 +227,7 @@
         "underline_text_color": "rgba(188, 231, 207, 1)",
         "quote_text_color": "rgba(225, 138, 36, 1)",
         "blur_tint_color": "rgba(23, 23, 23, 1)",
-        "chat_tint_color": "rgba(23, 23, 23, 1)",
+        "chat_tint_color": "rgba(23, 23, 23, 0.5)",
         "user_mes_blur_tint_color": "rgba(30, 30, 30, 0.9)",
         "bot_mes_blur_tint_color": "rgba(30, 30, 30, 0.9)",
         "shadow_color": "rgba(0, 0, 0, 1)",
@@ -257,7 +260,7 @@
         "hideChatAvatars_enabled": false,
         "max_context_unlocked": false,
         "message_token_count_enabled": true,
-        "expand_message_actions": false,
+        "expand_message_actions": true,
         "enableZenSliders": false,
         "enableLabMode": false,
         "prefer_character_prompt": true,
@@ -471,8 +474,19 @@
             "custom": []
         },
         "connectionManager": {
-            "selectedProfile": "c3b9fdec-01a3-439c-a29b-b3ed272066b3",
+            "selectedProfile": "feab1c4d-219d-4fe5-8419-5a2966457369",
             "profiles": [
+                {
+                    "id": "b8b1d5a4-c959-4f65-851b-55631258b167",
+                    "mode": "cc",
+                    "exclude": [],
+                    "api": "custom",
+                    "preset": "Keeper_Refined_Ver3.0_ForAPIandGemini",
+                    "api-url": "https://xialongxl-Gemini.hf.space/v1",
+                    "model": "claude-3-7-sonnet-20250219",
+                    "proxy": "None",
+                    "name": "custom claude-3-7-sonnet-20250219 - Keeper_Refined_Ver3.0_ForAPIandGemini"
+                },
                 {
                     "id": "c3b9fdec-01a3-439c-a29b-b3ed272066b3",
                     "mode": "cc",
@@ -483,6 +497,28 @@
                     "model": "claude-3.7-sonnet",
                     "proxy": "None",
                     "name": "custom claude-3.7-sonnet - Lyean3.18.4_Nyarlathotep (1)(1)"
+                },
+                {
+                    "id": "7f10f51d-6bcb-4349-8c26-a35327ef0c05",
+                    "mode": "cc",
+                    "exclude": [],
+                    "api": "custom",
+                    "preset": "Lyean3.18.4_Nyarlathotep (1)(1)(2)",
+                    "api-url": "https://glamoth.ar26710.online/v1",
+                    "model": "deepseek-v3-0324",
+                    "proxy": "None",
+                    "name": "custom deepseek-v3-0324 - Lyean3.18.4_Nyarlathotep (1)(1)(2)"
+                },
+                {
+                    "id": "feab1c4d-219d-4fe5-8419-5a2966457369",
+                    "mode": "cc",
+                    "exclude": [],
+                    "api": "custom",
+                    "preset": "Keeper_Refined_Ver3.0_ForAPIandGemini",
+                    "api-url": "https://xialongxl-Gemini.hf.space/v1",
+                    "model": "gemini-2.5-pro-exp-03-25",
+                    "proxy": "None",
+                    "name": "custom gemini-2.5-pro-exp-03-25 - Keeper_Refined_Ver3.0_ForAPIandGemini"
                 }
             ]
         },
@@ -582,7 +618,7 @@
                 "placement": [
                     2
                 ],
-                "disabled": false,
+                "disabled": true,
                 "markdownOnly": false,
                 "promptOnly": true,
                 "runOnEdit": true,
@@ -599,7 +635,7 @@
                 "placement": [
                     2
                 ],
-                "disabled": false,
+                "disabled": true,
                 "markdownOnly": false,
                 "promptOnly": true,
                 "runOnEdit": true,
@@ -608,7 +644,9 @@
                 "maxDepth": null
             }
         ],
-        "character_allowed_regex": [],
+        "character_allowed_regex": [
+            "炼金师的一生.png"
+        ],
         "tts": {
             "voiceMap": "",
             "ttsEnabled": false,
@@ -809,14 +847,15 @@
             "chara": []
         },
         "quickReplyV2": {
-            "isEnabled": false,
+            "isEnabled": true,
             "isCombined": false,
             "isPopout": false,
+            "showPopoutButton": false,
             "config": {
                 "setList": [
                     {
-                        "set": "Default",
-                        "isVisible": true
+                        "set": "角色扮演輔助一般版(1.2.1)",
+                        "isVisible": false
                     }
                 ]
             }
@@ -826,7 +865,8 @@
         {
             "id": "1345561466591",
             "name": "ST Default",
-            "color": "rgba(108, 32, 32, 1)"
+            "color": "rgba(108, 32, 32, 1)",
+            "color2": ""
         }
     ],
     "tag_map": {
@@ -834,7 +874,8 @@
             "1345561466591"
         ],
         "undefined": [],
-        "精币世界.png": []
+        "精币世界.png": [],
+        "炼金师的一生.png": []
     },
     "nai_settings": {
         "temperature": 1.5,
@@ -906,7 +947,7 @@
         "min_p_openai": 0,
         "top_a_openai": 1,
         "repetition_penalty_openai": 1,
-        "stream_openai": true,
+        "stream_openai": false,
         "openai_max_context": 2000000,
         "openai_max_tokens": 10311,
         "wrap_in_quotes": false,
@@ -1886,7 +1927,7 @@
                     },
                     {
                         "identifier": "d13c9055-6b44-4782-82c7-c8b62f1db172",
-                        "enabled": true
+                        "enabled": false
                     },
                     {
                         "identifier": "enhanceDefinitions",
@@ -2126,7 +2167,7 @@
                     },
                     {
                         "identifier": "90c4768d-3fb4-47dc-9140-40e6a400b43c",
-                        "enabled": false
+                        "enabled": true
                     },
                     {
                         "identifier": "jailbreak",
@@ -2203,8 +2244,8 @@
         "zerooneai_model": "yi-large",
         "blockentropy_model": "be-70b-base-llama3.1",
         "deepseek_model": "deepseek-chat",
-        "custom_model": "claude-3.7-sonnet",
-        "custom_url": "https://glamoth.ar26710.online/v1",
+        "custom_model": "gemini-2.5-pro-exp-03-25",
+        "custom_url": "https://xialongxl-gemini.hf.space/v1",
         "custom_include_body": "",
         "custom_exclude_body": "",
         "custom_include_headers": "",
